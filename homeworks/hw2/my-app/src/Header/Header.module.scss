@@ -1,0 +1,32 @@
+.headerFlex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: darkgrey;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  height: 70px;
+  border-radius: 20px 20px 0 0;
+
+  .logo{
+   cursor: pointer;
+  }
+  h1 {
+    margin: 0 15px 0 30px;
+  }
+
+  div {
+    margin-right: 30px;
+    span {
+      margin-right: 30px;
+      cursor: pointer;
+    }
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+}
+
+.favIcon{
+  cursor: pointer;
+  margin-right: 30px;
+}

@@ -1,0 +1,72 @@
+[
+    {
+      "title": "Katana Zero OST",
+      "imagePath": "img/katana.jpg",
+      "sku": "123",
+      "color": "Червоний",
+      "price": 100
+    },
+    {
+      "title": "Deftones - Diamond Eyes",
+      "imagePath": "img/Deftones.jpg",
+      "sku": "456",
+      "color": "Зелений",
+      "price": 200
+    },
+    {
+      "title": "Gorillaz - Cracker Island",
+      "imagePath": "img/gorillaz.jpg",
+      "sku": "789",
+      "color": "Синій",
+      "price": 300
+    },
+    {
+      "title": "Noisia - Split The Atom",
+      "imagePath": "img/noisia.jpg",
+      "sku": "101",
+      "color": "Жовтий",
+      "price": 199
+    },
+    {
+      "title": "Bring Me The Horizon - Sempiternal",
+      "imagePath": "img/sempiternal.jpg",
+      "sku": "112",
+      "color": "Фіолетовий",
+      "price": 79
+    },
+    {
+      "title": "Slipknot - unsainted",
+      "imagePath": "img/slipknot.jpeg",
+      "sku": "131",
+      "color": "Помаранчевий",
+      "price": 210
+    },
+    {
+      "title": "Sub-Focus - Torus",
+      "imagePath": "img/torus.jpg",
+      "sku": "415",
+      "color": "Рожевий",
+      "price": 109
+    },
+    {
+      "title": "The Prodigy - The Day is My Enemy",
+      "imagePath": "img/TheProdigy.jpg",
+      "sku": "161",
+      "color": "Сірий",
+      "price": 322
+    },
+    {
+      "title": "Tame Impala - Currents",
+      "imagePath": "img/ti.jpg",
+      "sku": "819",
+      "color": "Білий",
+      "price": 140
+    },
+    {
+      "title": "Карточка 10",
+      "imagePath": "img/katana.jpg",
+      "sku": "230",
+      "color": "Чорний",
+      "price": 220
+    }
+  ]
